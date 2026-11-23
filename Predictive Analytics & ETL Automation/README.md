@@ -94,5 +94,3 @@ payment_failure_intelligence_system/
 └── README.md
 ```
 
-## Important portfolio guidance
-Run the pipeline, inspect the outputs, and customize at least one part before presenting it as your own work. Be prepared to explain the synthetic data, cleaning rules, feature engineering, model evaluation, and dashboard measures. Do not describe this synthetic project as production work or claim real payment-system impact.
