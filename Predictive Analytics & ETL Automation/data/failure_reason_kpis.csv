@@ -1,0 +1,6 @@
+failure_reason,failed_transactions,failed_amount
+Bank Server Error,156,255216.54
+Insufficient Funds,143,228870.01
+Network Timeout,110,172130.74
+Risk Decline,102,174320.86000000002
+Invalid Details,50,72836.46
