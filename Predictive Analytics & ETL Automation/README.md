@@ -1,4 +1,4 @@
-# Payment Failure Intelligence System
+# Predictive Analytics & ETL Automation ( Payment Failure Intelligence System )
 
 An original, beginner-friendly portfolio project demonstrating payment transaction ETL, failure analysis, basic predictive modelling, SQL analytics, and a Power BI dashboard-ready dataset.
 
